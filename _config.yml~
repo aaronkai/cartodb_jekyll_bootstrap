@@ -19,7 +19,7 @@ author :
   twitter : username
   feedburner : feedname
   website : openAsheville.github.com
-
+carto_embed : <iframe width='400' height='400' frameborder='0' src='http://aaronkai.cartodb.com/tables/coa_crime_mapper_loc/embed_map?title=false&description=false&search=false&shareable=false&sql=SELECT%20*%20FROM%20coa_crime_mapper_loc%20&sw_lat=35.53446133418443&sw_lon=-82.7655029296875&ne_lat=35.63720889099896&ne_lon=-82.36038208007812'> </iframe>
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
